@@ -21,8 +21,8 @@
 3. Running the Application:
    # Start Backend server
     cd Backend
-   npm run server
+    npm run server
 
-  # Start Frontend application
-  cd Frontend
-  npm start
+   # Start Frontend application
+    cd Frontend
+    npm start
